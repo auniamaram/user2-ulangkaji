@@ -7,9 +7,11 @@
 ?>
 </title></head>
 
+<?
+$mula="Dengan Nama Allah Yang Maha Pemurah Lahi MAha Penyayang";
+?>
 <body>
-	<h1>"Dengan Nama Allah Yang Maha Pemurah lagi Maha Penyayang"</h1>
-
-
+<h1><?=$mula?></h1>
 </body>
+
 </html>
