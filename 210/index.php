@@ -1,6 +1,8 @@
-<?
-$mula="Dengan Nama Allah Yang Maha..";
+<?php
+$title = "Bismillah";
 ?>
-<body>
-<h1><?=$mula?></h1>
-</body>
+<html><head><title>
+<?php
+echo $title;
+?>
+</title></head>
